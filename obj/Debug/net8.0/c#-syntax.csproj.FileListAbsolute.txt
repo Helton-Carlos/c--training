@@ -1,0 +1,14 @@
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\bin\Debug\net8.0\c#-syntax.exe
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\bin\Debug\net8.0\c#-syntax.deps.json
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\bin\Debug\net8.0\c#-syntax.runtimeconfig.json
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\bin\Debug\net8.0\c#-syntax.dll
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\bin\Debug\net8.0\c#-syntax.pdb
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.AssemblyInfoInputs.cache
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.AssemblyInfo.cs
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.csproj.CoreCompileInputs.cache
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.dll
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\refint\c#-syntax.dll
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.pdb
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.genruntimeconfig.cache
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\ref\c#-syntax.dll
