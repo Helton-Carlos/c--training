@@ -6,7 +6,9 @@ class Program
   static void Main()
   {
     Item ball = new Item();
-    ball.Product = "TS-BOLA";
+    ball.Product = "BOLA";
     ball.Unid = 4;
+    ball.Price = 25M;
+    Console.WriteLine(ball.Total);
   }
 }

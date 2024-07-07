@@ -4,7 +4,7 @@ namespace TestPDO
   {
     private string _product = "";
     private int _unid;
-    // private decimal _price;
+    private decimal _price;
 
     public string Product
     {
@@ -35,5 +35,22 @@ namespace TestPDO
         Console.WriteLine(value);
       }
     }
+
+    public decimal Price
+    {
+      get { return _price; }
+      set
+      {
+        if (value <= 0)
+        {
+          throw new ArgumentNullException("Adicione no minimo 1 unidade!");
+        }
+
+        _price = value;
+        Console.WriteLine(value);
+      }
+    }
+
+    public decimal Total => _price * _unid;
   }
 }
