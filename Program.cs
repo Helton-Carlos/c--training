@@ -11,10 +11,6 @@ class Program
     ball.Price = 25M;
     Console.WriteLine(ball.Total);
 
-    Random dice = new Random();
-    int roll = dice.Next(1, 7);
-    Console.WriteLine($"Value Roll:{roll}");
-
     int firstValue = 700;
     int secondValue = 950;
     int largerValue;
@@ -31,22 +27,25 @@ class Program
       }
     }
 
-    //
-    string fruit = "cherry";
+    int hero = 10;
+    int monster = 10;
 
-    switch (fruit)
+    Random dice = new Random();
+
+    do
     {
-      case "apple":
-        Console.WriteLine($"App will display information for apple.");
-        break;
+      int roll = dice.Next(1, 11);
+      monster -= roll;
+      Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monster} health.");
 
-      case "banana":
-        Console.WriteLine($"App will display information for banana.");
-        break;
+      if (monster <= 0) continue;
 
-      case "cherry":
-        Console.WriteLine($"App will display information for cherry.");
-        break;
-    }
+      roll = dice.Next(1, 11);
+      hero -= roll;
+      Console.WriteLine($"Hero was damaged and lost {roll} health and now has {hero} health.");
+
+    } while (hero > 0 && monster > 0);
+
+    Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!");
   }
 }
