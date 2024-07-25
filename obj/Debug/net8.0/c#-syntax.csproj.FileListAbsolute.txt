@@ -12,3 +12,4 @@ C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\refint\c#-syntax.dl
 C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.pdb
 C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.genruntimeconfig.cache
 C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\ref\c#-syntax.dll
+C:\Users\Helton Brito\Desktop\Git\c#-syntax\obj\Debug\net8.0\c#-syntax.sourcelink.json
