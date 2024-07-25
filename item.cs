@@ -13,7 +13,7 @@ namespace TestPDO
       {
         if (String.IsNullOrEmpty(value))
         {
-          throw new ArgumentNullException("Produto não encontrado");
+          throw new ArgumentNullException("Produto não encontrado, verique!");
         }
 
         _product = value;
